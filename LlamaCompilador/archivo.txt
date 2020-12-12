@@ -1,0 +1,24 @@
+mision saludar(numero x, numero y){
+  numero z=1+5
+  {
+    y=1+x
+  }
+  devuelve z
+}
+llama(){
+  despedir()
+  saludar()
+  numero x=1
+  x=1
+  yoyo(x<=1){
+    x=2
+  }
+  {
+    x=2
+  }
+  mostrar (x)
+}
+mision despedir(){
+  numero y=2
+  mostrar("Adios")
+}

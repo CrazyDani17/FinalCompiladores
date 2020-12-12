@@ -1,0 +1,13 @@
+mision imprime_d (){
+  devuelve 1.5
+}
+
+mision imprime_x (numero x){
+  x = imprime_d()
+  devuelve x
+}
+
+llama(){
+  numero y = 4
+  imprime_x(y)
+}

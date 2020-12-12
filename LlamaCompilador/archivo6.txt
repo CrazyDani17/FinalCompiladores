@@ -1,0 +1,6 @@
+mision suma(numero x, numero y){
+  mostrar(x+y)
+}
+llama(){
+  suma(3,"hola")
+}

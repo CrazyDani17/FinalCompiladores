@@ -1,0 +1,7 @@
+mision suma (){
+  devuelve 1 + 2
+}
+llama(){
+  numero x = suma()
+  mostrar (x + 1)
+}

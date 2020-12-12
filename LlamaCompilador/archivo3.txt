@@ -1,0 +1,8 @@
+mision repite (numero x){
+  x=repite(x-1)
+  devuelve x
+}
+llama(){
+  numero x = 1
+  mostrar (repite(x))
+}

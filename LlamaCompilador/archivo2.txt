@@ -1,0 +1,7 @@
+llama(){
+  numero x = 4 + 3
+  yoyo (x <> 10){
+    x = x + 1
+    mostrar (x)
+  }
+}
